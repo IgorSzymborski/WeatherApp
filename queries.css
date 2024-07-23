@@ -1,0 +1,17 @@
+@media (max-width: 1200px) {
+  .wrapper {
+    width: 50%;
+  }
+}
+
+@media (max-width: 900px) {
+  .wrapper {
+    width: 70%;
+  }
+}
+
+@media (max-width: 600px) {
+  .wrapper {
+    width: 90%;
+  }
+}
